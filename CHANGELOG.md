@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+## 0.2.0 (2026-11-13)
+
+### Changed
+
+- **Breaking.** Minimal is now a Site package. It uses `cms-site` and `site.json` and installs in `sites/minimal/`.
+
 ## 0.1.1 (2026-11-12)
 
 ### Changed

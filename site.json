@@ -2,7 +2,7 @@
     "handle": "minimal",
     "name": "Minimal",
     "description": "A home page, an about page and a blog with three posts, on one typeface and a calm design.",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "license": "MIT",
     "languages": [
         "en"
@@ -11,6 +11,6 @@
         "previews/home.webp",
         "previews/blog.webp"
     ],
-    "cms": ">=0.26",
-    "demo": "https://lettern.org/kits/minimal/"
+    "cms": ">=0.34",
+    "demo": "https://lettern.org/sites/minimal/"
 }
